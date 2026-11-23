@@ -1,0 +1,3 @@
+Coloque aqui os PDFs de Organização e Montagem de Computadores.
+Depois registre cada arquivo em js/dados.js (procure COLE AQUI), no campo arquivo:
+Ex.: arquivo: "materiais/2-ano/organizacao-e-montagem-de-computadores/etapa1-lista1.pdf"

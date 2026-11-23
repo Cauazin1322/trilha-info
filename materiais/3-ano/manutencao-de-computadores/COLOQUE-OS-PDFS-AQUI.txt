@@ -1,0 +1,3 @@
+Coloque aqui os PDFs de Manutenção de Computadores.
+Depois registre cada arquivo em js/dados.js (procure COLE AQUI), no campo arquivo:
+Ex.: arquivo: "materiais/3-ano/manutencao-de-computadores/etapa1-lista1.pdf"
