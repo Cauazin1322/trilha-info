@@ -1,0 +1,3 @@
+Coloque aqui os PDFs de Matemática I (apoio).
+Depois registre cada arquivo em js/dados.js (procure COLE AQUI), no campo arquivo:
+Ex.: arquivo: "materiais/1-ano/matematica-i-apoio/etapa1-lista1.pdf"

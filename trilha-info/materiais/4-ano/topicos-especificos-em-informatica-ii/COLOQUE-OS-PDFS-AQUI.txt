@@ -1,0 +1,3 @@
+Coloque aqui os PDFs de Tópicos Específicos em Informática II.
+Depois registre cada arquivo em js/dados.js (procure COLE AQUI), no campo arquivo:
+Ex.: arquivo: "materiais/4-ano/topicos-especificos-em-informatica-ii/etapa1-lista1.pdf"
