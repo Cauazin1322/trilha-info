@@ -5,7 +5,7 @@ const CONFIG_PESQUISA = {
   titulo: "Pesquisa Diagnóstica: Acesso a Materiais e Apoio aos Estudos",
   descricao:
     "Ao terminar uma etapa, responda ao quiz rápido e participe do levantamento diagnóstico sobre acesso a computador, internet e deslocamento no curso Técnico em Informática (IFRN – Campus Nova Cruz). Nenhuma resposta vale nota e nenhum dado pessoal será divulgado.",
-  linkFormulario: "", // <- COLE AQUI o link do seu Google Forms (ex.: "https://forms.gle/...")
+  linkFormulario: "https://forms.gle/XYf4ffGC2tLf1VELA", 
   textoBotao: "Responder Formulário da Pesquisa",
 };
 
